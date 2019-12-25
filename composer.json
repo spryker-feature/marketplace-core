@@ -8,28 +8,16 @@
   "require": {
     "php": ">=7.2",
     "spryker-shop/merchant-product-offer-widget": "^0.3.0",
-    "spryker-shop/merchant-profile-page": "^0.2.0",
-    "spryker/merchant": "^2.0.0",
-    "spryker/merchant-data-import": "^0.2.0",
-    "spryker/merchant-gui": "^2.0.0",
-    "spryker/merchant-opening-hours": "^0.1.0",
-    "spryker/merchant-opening-hours-data-import": "^0.1.0",
-    "spryker/merchant-opening-hours-storage": "^0.1.0",
     "spryker/merchant-product-offer": "^0.2.0",
     "spryker/merchant-product-offer-data-import": "^0.2.0",
     "spryker/merchant-product-offer-storage": "^0.3.0",
-    "spryker/merchant-profile": "^0.1.0",
-    "spryker/merchant-profile-data-import": "^0.1.0",
-    "spryker/merchant-profile-gui": "^0.1.0",
-    "spryker/merchant-profile-storage": "^0.1.0",
     "spryker/merchant-sales-order": "^0.1.0",
     "spryker/price-product-offer": "^0.1.0",
     "spryker/price-product-offer-data-import": "^0.1.0",
     "spryker/price-product-offer-storage": "^0.1.0",
     "spryker/product-offer": "^0.1.0",
     "spryker/product-offer-stock": "^0.1.0",
-    "spryker/product-offer-stock-data-import": "^0.1.0",
-    "spryker/weekday-schedule": "^0.1.0"
+    "spryker/product-offer-stock-data-import": "^0.1.0"
   },
   "extra": {
     "branch-alias": {
