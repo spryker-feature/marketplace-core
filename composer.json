@@ -7,17 +7,7 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.2",
-    "spryker-shop/merchant-product-offer-widget": "^0.3.0",
-    "spryker/merchant-product-offer": "^0.2.0",
-    "spryker/merchant-product-offer-data-import": "^0.2.0",
-    "spryker/merchant-product-offer-storage": "^0.3.0",
-    "spryker/merchant-sales-order": "^0.1.0",
-    "spryker/price-product-offer": "^0.1.0",
-    "spryker/price-product-offer-data-import": "^0.1.0",
-    "spryker/price-product-offer-storage": "^0.1.0",
-    "spryker/product-offer": "^0.1.0",
-    "spryker/product-offer-stock": "^0.1.0",
-    "spryker/product-offer-stock-data-import": "^0.1.0"
+    "spryker/merchant-sales-order": "^0.1.0"
   },
   "extra": {
     "branch-alias": {
