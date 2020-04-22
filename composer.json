@@ -7,12 +7,15 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.2",
-    "spryker/merchant-sales-order": "^0.2.0",
-    "spryker/merchant-user": "^0.1.0"
+    "spryker/merchant-oms": "^0.1.0",
+    "spryker/merchant-oms-data-import": "^0.1.0",
+    "spryker/merchant-sales-order": "^0.5.1",
+    "spryker/merchant-user": "^0.4.0",
+    "spryker/merchant-user-gui": "^0.1.0"
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "2018.x-dev"
+      "dev-master": "202006.x-dev"
     }
   }
 }
